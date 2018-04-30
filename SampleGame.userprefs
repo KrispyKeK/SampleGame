@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A728A486-D28F-46B3-82BD-2B3806629704}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleGame/Controller/Program.cs">
+    <Files>
+      <File FileName="SampleGame/Controller/SampleGame.cs" Line="7" Column="23" />
+      <File FileName="SampleGame/Controller/Program.cs" Line="14" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleGame PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
